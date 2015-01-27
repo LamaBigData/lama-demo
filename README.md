@@ -1,4 +1,4 @@
-LAMA demo for Big Data 2015 winter school.
+LAMA demo for [Big Data 2015 winter school](http://grammars.grlmc.com/bigdat2015/).
 
 # Pre-requisite
 
@@ -141,3 +141,16 @@ In our codes, we have provided a default file path for h2 with `/tmp/demo/h2`. Y
 
 * In the job. You don't need to change the code, just add command line argument `--connection h2:tcp://sa:@localhost/D:\demo\h2` when running the job.
 * In the play web server. Change the [appliction.conf](play/conf/appliction.conf) file in ther `play/conf` foler.
+
+# Authors
+## Owners
+ * Gang Wu (Simon, gangwoo at gmail dot com)
+ * Zhongyang Zheng
+ * Roy Jiang
+
+## Contributor
+ * Wanming Lu
+ * Yonglin Fu
+
+## Supervisor
+ * Edward Chang
