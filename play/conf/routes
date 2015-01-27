@@ -1,0 +1,14 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Demo
+GET /demo/h2/:table/:strCol/:longCol    com.htc.studio.demo.Application.h2(table, strCol, longCol)
+GET /demo/mapcount/:table               com.htc.studio.demo.Application.mapcount(table, reload: Int ?= -1)
+GET /demo/wordcount/:table              com.htc.studio.demo.Application.wordcount(table, min: Int ?= 1, length: Int ?= Int.MaxValue, reload: Int ?= -1)
+GET /demo/h2st/:table/:id/:tweet/:senti com.htc.studio.demo.Application.h2Sentiment(table, id, tweet, senti)
+GET /demo/sentiment/:table              com.htc.studio.demo.Application.sentiment(table)
+
+# Static assets
+GET        /assets/*file        controllers.Assets.at(path="/public", file)
+GET        /vassets/*file       controllers.Assets.versioned(path="/public", file)

@@ -1,0 +1,776 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+javac options:
+3 items
+0 -> -encoding
+1 -> utf8
+2 -> -g
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+65 items
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$h2$1$$anonfun$apply$1$$anonfun$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$h2$1$$anonfun$apply$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$h2$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$h2Sentiment$1$$anonfun$apply$2$$anonfun$2.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$h2Sentiment$1$$anonfun$apply$2.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$h2Sentiment$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$mapcount$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$sentiment$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$wordcount$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/routes$javascript.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/routes$ref.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/routes.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/routes$javascript.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/routes$ref.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/routes.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/ReverseApplication.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/javascript/ReverseApplication.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/ref/ReverseApplication$$anonfun$h2$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/ref/ReverseApplication$$anonfun$h2Sentiment$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/ref/ReverseApplication$$anonfun$mapcount$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/ref/ReverseApplication$$anonfun$sentiment$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/ref/ReverseApplication$$anonfun$wordcount$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/ref/ReverseApplication.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/ReverseAssets.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/javascript/ReverseAssets.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/ref/ReverseAssets$$anonfun$at$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/ref/ReverseAssets$$anonfun$versioned$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/ref/ReverseAssets.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$Routes$$com_htc_studio_demo_Application_h20_invoker$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$Routes$$com_htc_studio_demo_Application_h2Sentiment3_invoker$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$Routes$$com_htc_studio_demo_Application_mapcount1_invoker$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$Routes$$com_htc_studio_demo_Application_sentiment4_invoker$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$Routes$$com_htc_studio_demo_Application_wordcount2_invoker$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$Routes$$controllers_Assets_at5_invoker$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$Routes$$controllers_Assets_versioned6_invoker$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$documentation$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$5.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$6.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$7.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$setPrefix$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/MapCount$$anonfun$f$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/MapCount$.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/MapCount.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/Sentiment$$anonfun$f$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/Sentiment$.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/Sentiment.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/WordCount$$anonfun$f$1.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/WordCount$.class
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/WordCount.class
+binary dependencies:
+27 items
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/.ivy2/cache/com.typesafe.play/anorm_2.10/jars/anorm_2.10-2.3.7.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/.ivy2/cache/com.typesafe.play/play-jdbc_2.10/jars/play-jdbc_2.10-2.3.7.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/.ivy2/cache/com.typesafe.play/play-json_2.10/jars/play-json_2.10-2.3.7.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.3.7.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/.ivy2/cache/com.typesafe.play/twirl-api_2.10/jars/twirl-api_2.10-1.0.2.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java -> /Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java -> /Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.3.7.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.3.7.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> /Users/simong_wu/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.3.7.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> /Users/simong_wu/.ivy2/cache/com.typesafe.play/twirl-api_2.10/jars/twirl-api_2.10-1.0.2.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> /Users/simong_wu/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> /Users/simong_wu/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.3.7.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> /Users/simong_wu/.ivy2/cache/com.typesafe.play/twirl-api_2.10/jars/twirl-api_2.10-1.0.2.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> /Users/simong_wu/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> /Users/simong_wu/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.3.7.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> /Users/simong_wu/.ivy2/cache/com.typesafe.play/twirl-api_2.10/jars/twirl-api_2.10-1.0.2.jar
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> /Users/simong_wu/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+19 items
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> /Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+65 items
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> com.htc.studio.demo.Application
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> com.htc.studio.demo.Application$
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> com.htc.studio.demo.Application$$anonfun$h2$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> com.htc.studio.demo.Application$$anonfun$h2$1$$anonfun$apply$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> com.htc.studio.demo.Application$$anonfun$h2$1$$anonfun$apply$1$$anonfun$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> com.htc.studio.demo.Application$$anonfun$h2Sentiment$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> com.htc.studio.demo.Application$$anonfun$h2Sentiment$1$$anonfun$apply$2
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> com.htc.studio.demo.Application$$anonfun$h2Sentiment$1$$anonfun$apply$2$$anonfun$2
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> com.htc.studio.demo.Application$$anonfun$mapcount$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> com.htc.studio.demo.Application$$anonfun$sentiment$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> com.htc.studio.demo.Application$$anonfun$wordcount$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java -> com.htc.studio.demo.routes
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java -> com.htc.studio.demo.routes$javascript
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java -> com.htc.studio.demo.routes$ref
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java -> controllers.routes
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java -> controllers.routes$javascript
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java -> controllers.routes$ref
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> com.htc.studio.demo.ReverseApplication
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> com.htc.studio.demo.javascript.ReverseApplication
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> com.htc.studio.demo.ref.ReverseApplication
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> com.htc.studio.demo.ref.ReverseApplication$$anonfun$h2$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> com.htc.studio.demo.ref.ReverseApplication$$anonfun$h2Sentiment$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> com.htc.studio.demo.ref.ReverseApplication$$anonfun$mapcount$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> com.htc.studio.demo.ref.ReverseApplication$$anonfun$sentiment$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> com.htc.studio.demo.ref.ReverseApplication$$anonfun$wordcount$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> controllers.ReverseAssets
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> controllers.javascript.ReverseAssets
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> controllers.ref.ReverseAssets
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> controllers.ref.ReverseAssets$$anonfun$at$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> controllers.ref.ReverseAssets$$anonfun$versioned$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$Routes$$com_htc_studio_demo_Application_h20_invoker$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$Routes$$com_htc_studio_demo_Application_h2Sentiment3_invoker$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$Routes$$com_htc_studio_demo_Application_mapcount1_invoker$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$Routes$$com_htc_studio_demo_Application_sentiment4_invoker$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$Routes$$com_htc_studio_demo_Application_wordcount2_invoker$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$Routes$$controllers_Assets_at5_invoker$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$Routes$$controllers_Assets_versioned6_invoker$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$documentation$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$2
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$3
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$4
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$5
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$6
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$7
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes$$anonfun$setPrefix$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> com.htc.studio.demo.html.MapCount
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> com.htc.studio.demo.html.MapCount$
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> com.htc.studio.demo.html.MapCount$$anonfun$f$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> com.htc.studio.demo.html.Sentiment
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> com.htc.studio.demo.html.Sentiment$
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> com.htc.studio.demo.html.Sentiment$$anonfun$f$1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> com.htc.studio.demo.html.WordCount
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> com.htc.studio.demo.html.WordCount$
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> com.htc.studio.demo.html.WordCount$$anonfun$f$1
+used names:
+413 items
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> +
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> ->
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> <init>
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Action
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Application
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Codec
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Column
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> ContentTypeOf
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Controller
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> DB
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Execution
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Implicits
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Int
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> IntWrites
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> JsValueWrites
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Json
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Long
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> LongWrites
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> MapCount
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Ok
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Play
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Predef
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> SQL
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Sentiment
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Stream
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> String
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> StringWrites
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> WordCount
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Writeable
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> Writes
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> anorm
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> any2ArrowAssoc
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> api
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> apply
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> canBuildFrom
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> columnToInt
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> columnToLong
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> columnToString
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> com
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> concurrent
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> conn
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> contentTypeOf_Html
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> current
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> data
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> db
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> defaultContext
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> demo
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> htc
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> html
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> http
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> id
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> immutable
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> json
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> length
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> libs
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> longCol
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> map
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> min
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> mvc
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> obj
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> package
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> play
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> reload
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> row
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> sentiment
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> strCol
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> studio
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> table
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> toJsFieldJsValueWrapper
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> toJson
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> toString
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> traversableWrites
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> tweet
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> utf_8
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> withConnection
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> writeableOf_Content
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> writeableOf_JsValue
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> +
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> <init>
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> ==
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> Any
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> AnyRef
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> Application
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> Asset
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> Assets
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> Call
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> HandlerInvokerFactory
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> HandlerRef
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> Int
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> JavascriptReverseRoute
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> List
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> Map
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> None
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> Nothing
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> PathBindable
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> Predef
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> QueryStringBindable
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> ReverseApplication
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> ReverseAssets
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> ReverseRouteContext
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> Router
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> Routes
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> Seq
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> String
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> _defaultPrefix
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> _prefix
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> _root_
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> api
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> apply
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> at
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> bindableInt
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> bindableString
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> collection
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> com
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> controllers
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> core
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> defaultPrefix
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> demo
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> dynamicString
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> empty
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> file
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> getClass
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> getClassLoader
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> h2
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> h2Sentiment
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> htc
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> id
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> immutable
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> implicitly
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> j
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> javascript
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> javascriptUnbind
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> length
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> longCol
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> mapcount
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> min
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> mvc
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> passThrough
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> path
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> play
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> prefix
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> queryString
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> ref
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> reload
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> senti
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> sentiment
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> strCol
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> string2Asset
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> studio
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> table
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> tweet
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> unbind
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> versioned
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> wordcount
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> +
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> ++
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> :+
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> <init>
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> A1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Any
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Application
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Asset
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Assets
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> B1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Function1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Handler
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> HandlerInvokerFactory
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Int
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> List
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Nil
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> None
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> PartialFunction
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> PathBindable
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Predef
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> QueryStringBindable
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> RequestHeader
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> ReverseRouteContext
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Right
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Route
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Router
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Routes
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Seq
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> String
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Tuple3
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> Unit
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> _1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> _2
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> _prefix
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> _prefix_=
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> api
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> apply
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> asInstanceOf
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> at
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> bindableInt
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> bindableString
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> call
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> canBuildFrom
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> collection
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> com
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> com_htc_studio_demo_Application_h20_invoker
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> com_htc_studio_demo_Application_h20_route
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> com_htc_studio_demo_Application_h2Sentiment3_invoker
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> com_htc_studio_demo_Application_h2Sentiment3_route
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> com_htc_studio_demo_Application_mapcount1_invoker
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> com_htc_studio_demo_Application_mapcount1_route
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> com_htc_studio_demo_Application_sentiment4_invoker
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> com_htc_studio_demo_Application_sentiment4_route
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> com_htc_studio_demo_Application_wordcount2_invoker
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> com_htc_studio_demo_Application_wordcount2_route
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> controllers
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> controllers_Assets_at5_invoker
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> controllers_Assets_at5_route
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> controllers_Assets_versioned6_invoker
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> controllers_Assets_versioned6_route
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> core
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> createInvoker
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> defaultPrefix
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> demo
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> e
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> empty
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> endsWith
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> fakeValue
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> file
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> foldLeft
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> foreach
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> fromPath
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> fromQuery
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> get
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> getClass
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> getClassLoader
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> h2
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> h2Sentiment
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> htc
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> id
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> immutable
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> isEmpty
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> isInstanceOf
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> j
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> length
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> longCol
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> mapcount
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> min
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> mvc
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> ne
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> p
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> package
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> params
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> passThrough
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> path
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> play
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> prefix
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> queryString
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> reload
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> router
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> s
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> senti
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> sentiment
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> setPrefix
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> strCol
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> string2Asset
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> studio
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> table
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> tweet
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> unapply
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> unary_!
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> unchecked
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> versioned
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> wordcount
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> <init>
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> Any
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> Appendable
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> Application
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> Assets
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> BaseScalaTemplate
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> Format
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> Function2
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> HtmlFormat
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> Int
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> ManifestFactory
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> MapCount
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> PlayMagic
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> Predef
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> Seq
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> String
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> Template2
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> TemplateMagic
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> _display_
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> _root_
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> api
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> apply
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> at
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> classType
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> collection
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> com
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> controllers
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> data
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> demo
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> format
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> h2
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> htc
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> html
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> i18n
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> models
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> mvc
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> play
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> raw
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> reflect
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> reload
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> routes
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> studio
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> table
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> templates
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> twirl
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> views
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> <init>
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> Any
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> Appendable
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> Application
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> Assets
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> BaseScalaTemplate
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> Format
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> Function1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> HtmlFormat
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> ManifestFactory
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> PlayMagic
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> Predef
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> Sentiment
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> Seq
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> String
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> Template1
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> TemplateMagic
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> _display_
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> _root_
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> api
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> apply
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> at
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> classType
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> collection
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> com
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> controllers
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> data
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> demo
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> format
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> h2Sentiment
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> htc
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> html
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> i18n
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> models
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> mvc
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> play
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> raw
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> reflect
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> routes
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> studio
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> table
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> templates
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> twirl
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> views
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> <init>
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> ==
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> Any
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> Appendable
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> Application
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> Assets
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> BaseScalaTemplate
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> Format
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> Function4
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> HtmlFormat
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> Int
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> ManifestFactory
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> PlayMagic
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> Predef
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> Seq
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> String
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> Template4
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> TemplateMagic
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> WordCount
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> _display_
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> _root_
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> api
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> apply
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> at
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> classType
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> collection
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> com
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> controllers
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> data
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> demo
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> format
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> h2
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> htc
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> html
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> i18n
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> length
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> minimum
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> models
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> mvc
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> play
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> raw
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> reflect
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> reload
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> routes
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> scala
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> studio
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> table
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> templates
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> twirl
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> views
+product stamps:
+65 items
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$Routes$$com_htc_studio_demo_Application_h20_invoker$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$Routes$$com_htc_studio_demo_Application_h2Sentiment3_invoker$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$Routes$$com_htc_studio_demo_Application_mapcount1_invoker$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$Routes$$com_htc_studio_demo_Application_sentiment4_invoker$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$Routes$$com_htc_studio_demo_Application_wordcount2_invoker$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$Routes$$controllers_Assets_at5_invoker$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$Routes$$controllers_Assets_versioned6_invoker$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$documentation$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$5.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$6.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$7.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$routes$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$$anonfun$setPrefix$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes$.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/Routes.class -> lastModified(1422188124000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$h2$1$$anonfun$apply$1$$anonfun$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$h2$1$$anonfun$apply$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$h2$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$h2Sentiment$1$$anonfun$apply$2$$anonfun$2.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$h2Sentiment$1$$anonfun$apply$2.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$h2Sentiment$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$mapcount$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$sentiment$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$$anonfun$wordcount$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application$.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/Application.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/ReverseApplication.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/MapCount$$anonfun$f$1.class -> lastModified(1422188127000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/MapCount$.class -> lastModified(1422188127000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/MapCount.class -> lastModified(1422188127000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/Sentiment$$anonfun$f$1.class -> lastModified(1422188127000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/Sentiment$.class -> lastModified(1422188127000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/Sentiment.class -> lastModified(1422188127000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/WordCount$$anonfun$f$1.class -> lastModified(1422188127000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/WordCount$.class -> lastModified(1422188127000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/html/WordCount.class -> lastModified(1422188127000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/javascript/ReverseApplication.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/ref/ReverseApplication$$anonfun$h2$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/ref/ReverseApplication$$anonfun$h2Sentiment$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/ref/ReverseApplication$$anonfun$mapcount$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/ref/ReverseApplication$$anonfun$sentiment$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/ref/ReverseApplication$$anonfun$wordcount$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/ref/ReverseApplication.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/routes$javascript.class -> lastModified(1422188126000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/routes$ref.class -> lastModified(1422188126000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/com/htc/studio/demo/routes.class -> lastModified(1422188126000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/ReverseAssets.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/javascript/ReverseAssets.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/ref/ReverseAssets$$anonfun$at$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/ref/ReverseAssets$$anonfun$versioned$1.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/ref/ReverseAssets.class -> lastModified(1422188125000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/routes$javascript.class -> lastModified(1422188126000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/routes$ref.class -> lastModified(1422188126000)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/classes/controllers/routes.class -> lastModified(1422188126000)
+source stamps:
+8 items
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> hash(c33658bdd6e3e938e3a45f42116f7dc49fa7aeb7)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java -> hash(d9d29835ee4ad94fc298f048e6a5f8246671be51)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java -> hash(e55a9f09ba6da44537882c5fd81c7044a5867ed6)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> hash(05e882852072979a4b3b3ce5e4b0afb8ffeaa2d8)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> hash(f38a16b4df5b50f595d5e3672390652e6cff5708)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> hash(66c03c0d761d9d63808da4cb6abc77850a8126d0)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> hash(a9b36b806472864bde442c184f4b50be9f688f10)
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> hash(bfef0e98e7c5f3807070c6b997725fbc90f5a3f5)
+binary stamps:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1381238674000)
+/Users/simong_wu/.ivy2/cache/com.typesafe.play/anorm_2.10/jars/anorm_2.10-2.3.7.jar -> lastModified(1417651753000)
+/Users/simong_wu/.ivy2/cache/com.typesafe.play/play-jdbc_2.10/jars/play-jdbc_2.10-2.3.7.jar -> lastModified(1417651805000)
+/Users/simong_wu/.ivy2/cache/com.typesafe.play/play-json_2.10/jars/play-json_2.10-2.3.7.jar -> lastModified(1417651760000)
+/Users/simong_wu/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.3.7.jar -> lastModified(1417651830000)
+/Users/simong_wu/.ivy2/cache/com.typesafe.play/twirl-api_2.10/jars/twirl-api_2.10-1.0.2.jar -> lastModified(1402827010000)
+/Users/simong_wu/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+class names:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/simong_wu/.ivy2/cache/com.typesafe.play/anorm_2.10/jars/anorm_2.10-2.3.7.jar -> anorm.Row
+/Users/simong_wu/.ivy2/cache/com.typesafe.play/play-jdbc_2.10/jars/play-jdbc_2.10-2.3.7.jar -> play.api.db.DB
+/Users/simong_wu/.ivy2/cache/com.typesafe.play/play-json_2.10/jars/play-json_2.10-2.3.7.jar -> play.api.libs.json.Writes$
+/Users/simong_wu/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.3.7.jar -> play.api.templates.PlayMagic$
+/Users/simong_wu/.ivy2/cache/com.typesafe.play/twirl-api_2.10/jars/twirl-api_2.10-1.0.2.jar -> play.twirl.api.Template4
+/Users/simong_wu/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.Function4
+internal apis:
+8 items
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCofMuHAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw6CVrLXQAD3JlcXVlc3Qyc2Vzc2lvbnNxAH4AC0ueCul0AA1yZXF1ZXN0MmZsYXNoc3EAfgALpbLBwXQADHJlcXVlc3QybGFuZ3VxAH4ACQAAARlzcQB+AAsjuPL3dAAMUmVzZXRDb250ZW50c3EAfgALhMDaBXQADU5vdEFjY2VwdGFibGVzcQB+AAtnqKoudAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAty7Lb4dAAIc2VuZEZpbGVzcQB+AAvLaR8MdAAPYWRkaW5nVG9TZXNzaW9uc3EAfgALtYvtVnQABkxvY2tlZHNxAH4ACyFZuUV0AAZub3RpZnlzcQB+AAsfMy2WdAAERlJPTXNxAH4AC/FAKlR0ABBDT05URU5UX0xBTkdVQUdFc3EAfgALMoEVp3QAB0NSRUFURURzcQB+AAuUN4aEdAAHdW5hcHBseXNxAH4AC+NnIeh0ABBUT09fTUFOWV9SRVFVRVNUc3EAfgAL1mu62XQAB2N1cnJpZWRzcQB+AAvrwtP8dAAXREVGQVVMVF9NQVhfVEVYVF9MRU5HVEhzcQB+AAuw6dygdAASdG9sZXJhbnRCb2R5UGFyc2Vyc3EAfgALE7MW53QAB1dBUk5JTkdzcQB+AAt7r4MadAAIQ09OVElOVUVzcQB+AAtwG5RFdAAEYm9keXNxAH4AC8atH2l0AAVjaHVua3NxAH4AC94Wi/10AAtTRVRfQ09PS0lFMnNxAH4AC+G3C7F0AAhIVFRQXzFfMXNxAH4ACzDiX8B0ABNDT05URU5UX0RJU1BPU0lUSU9Oc3EAfgALUfi5q3QAC2gyU2VudGltZW50c3EAfgALJzb7hHQADENPTlRFTlRfVFlQRXNxAH4AC9R2i8Z0AAZCSU5BUllzcQB+AAtHfdKudAAEd2FpdHNxAH4AC8LY/490ABxBQ0NFU1NfQ09OVFJPTF9BTExPV19NRVRIT0RTc3EAfgALPQEeqHQACkJhZEdhdGV3YXlzcQB+AAvam0XkdAAId2l0aExhbmdzcQB+AAvHRPfHdAAQTWV0aG9kTm90QWxsb3dlZHNxAH4AC6dFWh10AA5Ub29NYW55UmVxdWVzdHNxAH4AC6wjB4d0AApVU0VSX0FHRU5Uc3EAfgALQS44KnQABEhPU1RzcQB+AAur/9A5dAALQ09OVEVOVF9NRDVzcQB+AAuw6XlPdAAOY29weSRkZWZhdWx0JDJzcQB+AAuZUGLTdAAHQ3JlYXRlZHNxAH4AC5hrX650AA0kYXNJbnN0YW5jZU9mc3EAfgALJMGZpHQABWVtcHR5c3EAfgALmUMV8XQAEFhfRk9SV0FSREVEX1BPUlRzcQB+AAsNHPMFdAAKSmF2YVNjcmlwdHNxAH4ACxOmNRV0AAtCQURfUkVRVUVTVHNxAH4AC+TiLdd0AAV1c2luZ3NxAH4ACzqk5Oh0AA5Ob3RJbXBsZW1lbnRlZHNxAH4AC3EJ+yF0AAxNQVhfRk9SV0FSRFNzcQB+AAu/71rhdAAQWF9GT1JXQVJERURfSE9TVHNxAH4AC2bjJhN0AANDU1NzcQB+AAuEwGNcdAAMdG9sZXJhbnRKc29uc3EAfgALi9AgY3QACFNlZU90aGVyc3EAfgALe2wh+nQAB1RSQUlMRVJzcQB+AAufifhwdAASUFJPWFlfQVVUSEVOVElDQVRFc3EAfgAL9lhV+3QADUFVVEhPUklaQVRJT05zcQB+AAumKKTWdAADWE1Mc3EAfgALMBll7XQACmFueUNvbnRlbnRzcQB+AAuG3De2dAANQ0FDSEVfQ09OVFJPTHNxAH4ACxr1ycB0ABtOb25BdXRob3JpdGF0aXZlSW5mb3JtYXRpb25zcQB+AAvPFyVEdAAPTk9UX0lNUExFTUVOVEVEc3EAfgALaDt+nnQADHByb2R1Y3RBcml0eXNxAH4AC5moTNd0ABJsb2dSZWRpcmVjdFdhcm5pbmdzcQB+AAuWKZo9dAAGZXF1YWxzc3EAfgALXHdK8HQAEFBBWU1FTlRfUkVRVUlSRURzcQB+AAujLZSLdAAEanNvbnNxAH4AC7xz8V10AAtQYXJ0SGFuZGxlcnNxAH4AC0TKwWd0AAhBY2NlcHRlZHNxAH4AC1Nohu10AAtSRVRSWV9BRlRFUnNxAH4AC4VRTUt0ABJSZWRpcmVjdCRkZWZhdWx0JDJzcQB+AAt5+EQCdAAOdXJsRm9ybUVuY29kZWRzcQB+AAt3qtYrdAAESlNPTnNxAH4AC7hcQD10AAhSZWRpcmVjdHNxAH4AC3RN/Nl0ABNQUkVDT05ESVRJT05fRkFJTEVEc3EAfgALmPEsiXQACmhhbmRsZVBhcnRzcQB+AAv/3EArdAAOUGFydGlhbENvbnRlbnRzcQB+AAu2gDeidAAUVW5zdXBwb3J0ZWRNZWRpYVR5cGVzcQB+AAt+TCKcdAAIQ09ORkxJQ1RzcQB+AAti8SGkdAASc2VuZEZpbGUkZGVmYXVsdCQyc3EAfgALyc4tyXQADkFDQ0VQVF9DSEFSU0VUc3EAfgALsPhfenQAEUV4cGVjdGF0aW9uRmFpbGVkc3EAfgALeVjTrHQAA1ZJQXNxAH4AC5FfO8l0AAxhc0luc3RhbmNlT2ZzcQB+AAsZhI0xdAAPUkVRVUVTVF9USU1FT1VUc3EAfgALGg8kFHQAEE1VTFRJUExFX0NIT0lDRVNzcQB+AAuwbvwudAAJTXVsdGlwYXJ0c3EAfgALbZcFrXQAHWhhbmRsZUZpbGVQYXJ0QXNUZW1wb3JhcnlGaWxlc3EAfgAL55NhKXQAD211bHRpcGFydFBhcnNlcnNxAH4AC0cXjCl0AAlzZW50aW1lbnRzcQB+AAviU0N6dAARTU9WRURfUEVSTUFORU5UTFlzcQB+AAsy7tROdAACVEVzcQB+AAtsChxCdAAOR2F0ZXdheVRpbWVvdXRzcQB+AAuahfGZdAAQQ09OVEVOVF9MT0NBVElPTnNxAH4AC+7HxiV0AA9QQVJUSUFMX0NPTlRFTlRzcQB+AAuNAxgTdAATcmVtb3ZpbmdGcm9tU2Vzc2lvbnNxAH4AC8wyrn90ABRJTlNVRkZJQ0lFTlRfU1RPUkFHRXNxAH4AC/xN7Vx0ABFtdWx0aXBhcnRGb3JtRGF0YXNxAH4AC48hekl0AAxFVkVOVF9TVFJFQU1zcQB+AAuPEmgTdAAMc3luY2hyb25pemVkc3EAfgALp+osuHQAEEZhaWxlZERlcGVuZGVuY3lzcQB+AAuuDwvcdAAERVRBR3NxAH4AC/C56550AA9MRU5HVEhfUkVRVUlSRURzcQB+AAsFwfJodAAOd2l0aE5ld1Nlc3Npb25zcQB+AAtPlpwxdAAKSkFWQVNDUklQVHNxAH4AC15EFNh0AA5FbnRpdHlUb29MYXJnZXNxAH4ACzcM5y90AAxVTkFVVEhPUklaRURzcQB+AAuLl3kDdAAWVU5TVVBQT1JURURfTUVESUFfVFlQRXNxAH4AC5lWP0N0AA0kaXNJbnN0YW5jZU9mc3EAfgALQH+X33QAB1JFRkVSRVJzcQB+AAuM5NSmdAAYUkVRVUVTVF9FTlRJVFlfVE9PX0xBUkdFc3EAfgALB4JFknQABk9SSUdJTnNxAH4AC/c00lF0AAt3aXRoQ29va2llc3NxAH4ACxD/gS10AA9BQ0NFUFRfTEFOR1VBR0VzcQB+AAs/PWGRdAAMTk9UX01PRElGSUVEc3EAfgALNdRGunQAAmFzc3EAfgALID3N6nQABnR1cGxlZHNxAH4ACyBW9CB0AAt3aXRoU2Vzc2lvbnNxAH4ACz6iBLd0ABpIVFRQX1ZFUlNJT05fTk9UX1NVUFBPUlRFRHNxAH4AC4nQxgJ0ABtBQ0NFU1NfQ09OVFJPTF9BTExPV19PUklHSU5zcQB+AAuQq5xvdAASc2VuZEZpbGUkZGVmYXVsdCQzc3EAfgALRzvbnnQAE1VucHJvY2Vzc2FibGVFbnRpdHlzcQB+AAsd7s2PdAAEdGV4dHNxAH4AC3/zCu50AAhmaWxlTmFtZXNxAH4AC7EGacN0AAhjYW5FcXVhbHNxAH4AC3kCsaR0AAhOb3RGb3VuZHNxAH4ACyrRZ0B0AAhJRl9SQU5HRXNxAH4ACx6GINl0ABJzZW5kRmlsZSRkZWZhdWx0JDRzcQB+AAv7oI9zdAAIZmxhc2hpbmdzcQB+AAthi8+2dAAHZGVjaHVua3NxAH4AC7hY77B0AARGT1JNc3EAfgALe5AyVHQAE0lGX1VOTU9ESUZJRURfU0lOQ0VzcQB+AAvUjzK/dAATU1dJVENISU5HX1BST1RPQ09MU3NxAH4AC5pXnnV0ABJURU1QT1JBUllfUkVESVJFQ1RzcQB+AAu0CxQmdAANcHJvZHVjdFByZWZpeHNxAH4AC0SJfyh0AA5DT05URU5UX0xFTkdUSHNxAH4AC9w2Ha10AA10ZW1wb3JhcnlGaWxlc3EAfgALeVpYOnQAClNFVF9DT09LSUVzcQB+AAvwdB0QdAAJbm90aWZ5QWxsc3EAfgALZBgUV3QAC3JlYWRSZXNvbHZlc3EAfgAL6qyOWHQAA0FHRXNxAH4AC546OJt0AAtCQURfR0FURVdBWXNxAH4AC8L7cm10ABJFWFBFQ1RBVElPTl9GQUlMRURzcQB+AAvBbC2FdAAKQ09OTkVDVElPTnNxAH4AC0N0JuB0AAJPa3NxAH4AC9nWG/p0AAxpc0luc3RhbmNlT2ZzcQB+AAvtt9NudAAQTW92ZWRQZXJtYW5lbnRseXNxAH4AC2snyO90AAJoMnNxAH4ACyqSeyp0AAJPS3NxAH4ACwJy+Qp0ABFkaXNjYXJkaW5nQ29va2llc3NxAH4AC2u+ykB0ABVBcHBsaWNhdGlvblhtbE1hdGNoZXJzcQB+AAvrtRJBdAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfSEVBREVSU3NxAH4ACy9MI0h0AA5DQUNIRV9NQU5JRkVTVHNxAH4ACyJNXkl0AAlGb3JiaWRkZW5zcQB+AAv54AwLdAAXSHR0cFZlcnNpb25Ob3RTdXBwb3J0ZWRzcQB+AAvH2g0sdAAEVEVYVHNxAH4AC7O7EMp0AAl3b3JkY291bnRzcQB+AAs07g+udAAKQmFkUmVxdWVzdHNxAH4AC8ZzkvJ0AAVGT1VORHNxAH4ACwVnvCl0AAY8aW5pdD5zcQB+AAt8xesWdAALTm90TW9kaWZpZWRzcQB+AAspsrpqdAAEREFURXNxAH4AC+oZRXt0AA9jcmVhdGVCYWRSZXN1bHRzcQB+AAutOaG3dAAFYXN5bmNzcQB+AAtudMHRdAANQ09OVEVOVF9SQU5HRXNxAH4ACwNcgnl0AAlVTkxJTUlURURzcQB+AAttt8DbdAAEJGFtcHNxAH4AC5OVZAR0AAx0b2xlcmFudFRleHRzcQB+AAtjWDKzdAAHY2h1bmtlZHNxAH4AC9lORRN0ABFUUkFOU0ZFUl9FTkNPRElOR3NxAH4AC9YttdJ0AAtjb250ZW50VHlwZXNxAH4AC65T/2B0AAVhcHBseXNxAH4ACyPot150AANyYXdzcQB+AAszqIUgdAAFZXJyb3JzcQB+AAvmbQTmdAADeG1sc3EAfgAL7LOnVXQABXBhcnNlc3EAfgALMvkgz3QAE1BST1hZX0FVVEhPUklaQVRJT05zcQB+AAsQJ/VydAACPT1zcQB+AAuVRANqdAAER09ORXNxAH4ACwMKnjB0AAhGaWxlSW5mb3NxAH4AC+KXeeN0AARHb25lc3EAfgALIzFgfXQAIEFDQ0VTU19DT05UUk9MX0FMTE9XX0NSRURFTlRJQUxTc3EAfgALH1A+/3QADk5PVF9BQ0NFUFRBQkxFc3EAfgALjdFrMXQABXNwbGl0c3EAfgALTlxXQnQABWNsb25lc3EAfgALGDkJzXQABnN0cmVhbXNxAH4AC3hoKtZ0AAZFWFBFQ1RzcQB+AAtD5ImRdAASU2VydmljZVVuYXZhaWxhYmxlc3EAfgAL2SzkonQACExPQ0FUSU9Oc3EAfgALPq2NC3QABFZBUllzcQB+AAtof6eddAAQV1dXX0FVVEhFTlRJQ0FURXNxAH4ACzzgKDd0AAtBcHBsaWNhdGlvbnNxAH4AC9tfRbZ0AA5oYW5kbGVGaWxlUGFydHNxAH4ACzYwCHV0AARmZWVkc3EAfgALZRSRD3QABFRPRE9zcQB+AAvlrArRdAAPWF9GT1JXQVJERURfRk9Sc3EAfgALIHEf13QACHBhcnROYW1lc3EAfgALKSpN0HQAElByZWNvbmRpdGlvbkZhaWxlZHNxAH4AC+cHRq10AAhBQ0NFUFRFRHNxAH4AC56QLYl0AARIdG1sc3EAfgALbaoGRXQACk5PX0NPTlRFTlRzcQB+AAu/g552dAAISFRUUF8xXzBzcQB+AAualuOMdAAVSU5URVJOQUxfU0VSVkVSX0VSUk9Sc3EAfgALtLArXnQAD2NodW5rJGRlZmF1bHQkMXNxAH4AC4awHdx0AAdVUEdSQURFc3EAfgALqfbf/HQAFnRvbGVyYW50Rm9ybVVybEVuY29kZWRzcQB+AAuJy4ZidAAJTk9UX0ZPVU5Ec3EAfgAL0YzC33QAB3Nlc3Npb25zcQB+AAurJu7YdAAPQUNDRVBUX0VOQ09ESU5Hc3EAfgALMnlDp3QAE0ludGVybmFsU2VydmVyRXJyb3JzcQB+AAsqlVvxdAAHRVhQSVJFU3NxAH4ACyz8skx0AA5jb3B5JGRlZmF1bHQkM3NxAH4ACxYawgB0AARjb3B5c3EAfgALSCyp7XQAH1JFUVVFU1RFRF9SQU5HRV9OT1RfU0FUSVNGSUFCTEVzcQB+AAvqm+YidAAGaGVhZGVyc3EAfgAL/xjKYHQACHRvU3RyaW5nc3EAfgALovXilHQADFVuYXV0aG9yaXplZHNxAH4ACzuW8FB0AARmaWxlc3EAfgALSH0GtnQADlJlcXVlc3RUaW1lb3V0c3EAfgALmnKKzHQABkFDQ0VQVHNxAH4AC6wMMBJ0AApVcmlUb29Mb25nc3EAfgALKc5kBnQAD0dBVEVXQVlfVElNRU9VVHNxAH4AC1dEj450AAtNdWx0aVN0YXR1c3NxAH4AC3jqR010AAxjbGVhcmluZ0xhbmdzcQB+AAuQsPZ0dAAGU0VSVkVSc3EAfgALlj81j3QAHUFDQ0VTU19DT05UUk9MX1JFUVVFU1RfTUVUSE9Ec3EAfgALgFQSU3QAFFVOUFJPQ0VTU0FCTEVfRU5USVRZc3EAfgALFiMytXQAFkFDQ0VTU19DT05UUk9MX01BWF9BR0VzcQB+AAthhxjidAACIT1zcQB+AAuVZGjcdAANTEFTVF9NT0RJRklFRHNxAH4AC/FsbSR0AB1BQ0NFU1NfQ09OVFJPTF9FWFBPU0VfSEVBREVSU3NxAH4ACyWIzCB0AB5BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX0hFQURFUlNzcQB+AAuUJQtkdAALd2l0aENoYXJzZXRzcQB+AAtkE3eedAAIQ29uZmxpY3RzcQB+AAsZCV0gdAAKY29ubmVjdGlvbnNxAH4ACyrUd6h0AAVBTExPV3NxAH4ACys3TZt0AAZDT09LSUVzcQB+AAtU0g8kdAARSUZfTU9ESUZJRURfU0lOQ0VzcQB+AAtY5XVCdAAIZ2V0Q2xhc3NzcQB+AAuGKCwAdAADWG1sc3EAfgAL9ueo4HQAGUNPTlRFTlRfVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAsyzq/SdAAOY29weSRkZWZhdWx0JDFzcQB+AAu9bmahdAAESFRNTHNxAH4AC53+CaJ0AAVGb3VuZHNxAH4AC26s2FR0AB1OT05fQVVUSE9SSVRBVElWRV9JTkZPUk1BVElPTnNxAH4AC1veUC90AAZyZW5kZXJzcQB+AAu9lpe4dAAXc2hvdWxkV2FybklmTm90UmVkaXJlY3RzcQB+AAuxnJDpdAAGUFJBR01Bc3EAfgALuyL0UXQACElGX01BVENIc3EAfgALMeWD5nQADmhhbmRsZURhdGFQYXJ0c3EAfgALF6YknHQAHVBST1hZX0FVVEhFTlRJQ0FUSU9OX1JFUVVJUkVEc3EAfgALakvBdXQADVJFU0VUX0NPTlRFTlRzcQB+AAuo3Xf6dAAJU0VFX09USEVSc3EAfgAL5H+X+nQAEUZBSUxFRF9ERVBFTkRFTkNZc3EAfgALA4EC33QAAm5lc3EAfgALco534XQAEENPTlRFTlRfRU5DT0RJTkdzcQB+AAuZ+GMpdAATSW5zdWZmaWNpZW50U3RvcmFnZXNxAH4AC9orVXl0AAVSQU5HRXNxAH4AC3ruJDh0AAlVU0VfUFJPWFlzcQB+AAsDv28LdAAHQWNjZXB0c3NxAH4AC35LjAJ0AAdDSFVOS0VEc3EAfgALND3GQXQAFFJFUVVFU1RfVVJJX1RPT19MT05Hc3EAfgAL8vgtG3QAElJlZGlyZWN0JGRlZmF1bHQkM3NxAH4AC83HWOF0AAhtYXBjb3VudHNxAH4AC6QYv4t0AAZMT0NLRURzcQB+AAsKvAmydAAEd2hlbnNxAH4AC9e2q2Z0AARKc29uc3EAfgALG9OmTnQACW1heExlbmd0aHNxAH4AC3EOBTV0AAlGT1JCSURERU5zcQB+AAu4Hj0LdAASTUVUSE9EX05PVF9BTExPV0VEc3EAfgALmpP9wHQAAmVxc3EAfgALqre5jnQAD1BhcnRJbmZvTWF0Y2hlcnNxAH4AC5Hchth0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAvfckgmdAANSUZfTk9ORV9NQVRDSHNxAH4AC0GXsQN0AA1BQ0NFUFRfUkFOR0VTc3EAfgALNMcM5XQACU5vQ29udGVudHNxAH4AC7/qCEZ0ABFYX0ZPUldBUkRFRF9QUk9UT3NxAH4AC6h9gLh0AAt0b2xlcmFudFhtbHNxAH4AC4nNS0F0AAxNVUxUSV9TVEFUVVNzcQB+AAvz2ERpdAACIyNzcQB+AAvept+pdAAIZmluYWxpemVzcQB+AAuhs+CudAATU0VSVklDRV9VTkFWQUlMQUJMRXNxAH4AC+ku6RB0AA5wcm9kdWN0RWxlbWVudHNxAH4AC6Jk7ld0AAhoYXNoQ29kZXNxAH4AC9DhvNV0AA9GaWxlSW5mb01hdGNoZXJzcQB+AAtQhOq3dAAGU3RhdHVzc3EAfgALUbnVYnQAC3dpdGhIZWFkZXJzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4CT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAH2NvbS5odGMuc3R1ZGlvLmRlbW8uQXBwbGljYXRpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgJoeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgJnAHBzcQB+AmxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4CT0wACWluaGVyaXRlZHEAfgJPTAAHcGFyZW50c3EAfgJPeHEAfgJwc3EAfgJnAHBzcQB+Amx1cQB+AkoAAAAAc3EAfgJnAHBzcQB+Amx1cQB+AkoAAAAAc3EAfgJnAHBzcQB+Amx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAADHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+Am90AApDb250cm9sbGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgJvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgKMdAADYXBpc3EAfgKMdAADbXZjc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+Ao1zcQB+AoB0AAlSZW5kZXJpbmdxAH4ChnNxAH4CgHQAEVJlcXVlc3RFeHRyYWN0b3JzcQB+AoZzcQB+AoB0ABBBY2NlcHRFeHRyYWN0b3JzcQB+AoZzcQB+AoB0AAxDb250ZW50VHlwZXNzcQB+AoRzcQB+Aod1cQB+AooAAAAEc3EAfgKMdAAEcGxheXNxAH4CjHQAA2FwaXNxAH4CjHQABGh0dHBxAH4ClXNxAH4CgHQAC0hlYWRlck5hbWVzcQB+Ap5zcQB+AoB0AAZTdGF0dXNxAH4CnnNxAH4CgHQADEh0dHBQcm90b2NvbHEAfgKec3EAfgKAdAALQm9keVBhcnNlcnNxAH4ChnNxAH4CgHQAB1Jlc3VsdHNxAH4ChnNxAH4CgHQABk9iamVjdHNxAH4ChHNxAH4Ch3VxAH4CigAAAANzcQB+Aox0AARqYXZhc3EAfgKMdAAEbGFuZ3EAfgKVc3EAfgKAdAADQW55c3EAfgKEc3EAfgKHdXEAfgKKAAAAAnNxAH4CjHQABXNjYWxhcQB+ApV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0ABNjb20uaHRjLnN0dWRpby5kZW1vc3EAfgLDdAAHY29tLmh0Y3NxAH4Cw3QAA2NvbXNxAH4Cw3QADmNvbS5odGMuc3R1ZGlvc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLIQRheHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEkvVXNlcnMvc2ltb25nX3d1L1dvcmtzcGFjZS9sYW1hLWRlbW8tc3BhaW4vcGxheS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUwzZYvdbj6TjjpF9CEW99xJ+nrrc=
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA8LAHXAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAADHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cG20DTt0AAZub3RpZnlzcQB+AAxOzeAjdAAKcm91dGVzJHJlZnNxAH4ADHqdLoF0AAR3YWl0c3EAfgAMbjLGfXQABnJvdXRlc3NxAH4ADGhDXAV0AAZlcXVhbHNzcQB+AAy6eiXJdAARcm91dGVzJGphdmFzY3JpcHRzcQB+AAyjk71JdAAJbm90aWZ5QWxsc3EAfgAMRmxgfXQABjxpbml0PnNxAH4ADKPlkMd0AAtBcHBsaWNhdGlvbnNxAH4ADGgxs9Z0AAh0b1N0cmluZ3NxAH4ADJZcF8B0AAhnZXRDbGFzc3NxAH4ADDIm8SZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AC94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABpjb20uaHRjLnN0dWRpby5kZW1vLnJvdXRlc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLnRocm93c3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4ASXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ASABwc3EAfgBNc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AC9MAAlpbmhlcml0ZWRxAH4AL0wAB3BhcmVudHNxAH4AL3hxAH4AUXNxAH4ASABwc3EAfgBNdXEAfgAqAAAAAHNxAH4ASABwc3EAfgBNdXEAfgAqAAAAAHNxAH4ASABwc3EAfgBNdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBQdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBQc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBtdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBuc3EAfgAscQB+ADlxAH4AO3EAfgA9cQB+AD5xAH4AQH5xAH4AQXQABk1vZHVsZXVxAH4ARQAAAABzcQB+AEgAcHNxAH4ATXEAfgBSc3EAfgBIAHBzcQB+AE1zcQB+AFVzcQB+AEgAcHNxAH4ATXVxAH4AKgAAAABzcQB+AEgAcHNxAH4ATXVxAH4AKgAAAABzcQB+AEgAcHNxAH4ATXVxAH4AXwAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABNjb20uaHRjLnN0dWRpby5kZW1vc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLIQRheHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEkvVXNlcnMvc2ltb25nX3d1L1dvcmtzcGFjZS9sYW1hLWRlbW8tc3BhaW4vcGxheS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU2dKYNe5K2U/CmPBI5qX4JGZxvlE=
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAhK7JCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAADHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIxCGZl0AAZub3RpZnlzcQB+AAzdr1VrdAAGQXNzZXRzc3EAfgAM0Bhy9XQACnJvdXRlcyRyZWZzcQB+AAwHmQJkdAAEd2FpdHNxAH4ADB+outB0AAZyb3V0ZXNzcQB+AAxVQsqUdAAGZXF1YWxzc3EAfgAM3PCRHnQAEXJvdXRlcyRqYXZhc2NyaXB0c3EAfgAMh3x4nnQACW5vdGlmeUFsbHNxAH4ADI8QJwZ0AAY8aW5pdD5zcQB+AAyTEyJmdAAIdG9TdHJpbmdzcQB+AAy41l2YdAAIZ2V0Q2xhc3NzcQB+AAwQxWwadAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgAveHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASY29udHJvbGxlcnMucm91dGVzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBJeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBIAHBzcQB+AE1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AL0wACWluaGVyaXRlZHEAfgAvTAAHcGFyZW50c3EAfgAveHEAfgBRc3EAfgBIAHBzcQB+AE11cQB+ACoAAAAAc3EAfgBIAHBzcQB+AE11cQB+ACoAAAAAc3EAfgBIAHBzcQB+AE11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFB0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AG10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AG5zcQB+ACxxAH4AOXEAfgA7cQB+AD1xAH4APnEAfgBAfnEAfgBBdAAGTW9kdWxldXEAfgBFAAAAAHNxAH4ASABwc3EAfgBNcQB+AFJzcQB+AEgAcHNxAH4ATXNxAH4AVXNxAH4ASABwc3EAfgBNdXEAfgAqAAAAAHNxAH4ASABwc3EAfgBNdXEAfgAqAAAAAHNxAH4ASABwc3EAfgBNdXEAfgBfAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLIQRheHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEkvVXNlcnMvc2ltb25nX3d1L1dvcmtzcGFjZS9sYW1hLWRlbW8tc3BhaW4vcGxheS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU5VqfCbptpEU3iCxf2BxwRKWGftY=
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC5Ng9oAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cG0+p8F0AAZub3RpZnlzcQB+AAzJTkp1dAALaDJTZW50aW1lbnRzcQB+AAzSwvirdAAEd2FpdHNxAH4ADA4O6Yl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMX69aVHQABmVxdWFsc3NxAH4ADHQqfit0AAxhc0luc3RhbmNlT2ZzcQB+AAx4Um+QdAATd29yZGNvdW50JGRlZmF1bHQkM3NxAH4ADMPm4QF0AAlzZW50aW1lbnRzcQB+AAyWkE7edAAMc3luY2hyb25pemVkc3EAfgAMbcHzi3QADSRpc0luc3RhbmNlT2ZzcQB+AAx7jKt4dAANUmV2ZXJzZUFzc2V0c3NxAH4ADLLBa5x0AAlub3RpZnlBbGxzcQB+AAxNDkkAdAAMaXNJbnN0YW5jZU9mc3EAfgAMxyju3nQAAmgyc3EAfgAMTjS19nQAE3dvcmRjb3VudCRkZWZhdWx0JDRzcQB+AAzMo+aBdAAJd29yZGNvdW50c3EAfgAMnEjq83QABjxpbml0PnNxAH4ADAQqqqV0AAJhdHNxAH4ADO58hK90ABJtYXBjb3VudCRkZWZhdWx0JDJzcQB+AAxnjMWbdAACPT1zcQB+AAyiWM+MdAAFY2xvbmVzcQB+AAzjtEE0dAAIdG9TdHJpbmdzcQB+AAzFDuZUdAACIT1zcQB+AAyWtxDadAAIZ2V0Q2xhc3NzcQB+AAxRMb7tdAACbmVzcQB+AAwmvo8sdAAIbWFwY291bnRzcQB+AAww/3r/dAAJdmVyc2lvbmVkc3EAfgAMmTpQTXQAAmVxc3EAfgAMcTxbEHQAElJldmVyc2VBcHBsaWNhdGlvbnNxAH4ADNPtuoR0AAIjI3NxAH4ADONnAQ90AAhmaW5hbGl6ZXNxAH4ADBnBepF0AAhoYXNoQ29kZXNxAH4ADC9B1MZ0ABN3b3JkY291bnQkZGVmYXVsdCQyc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AWXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAGWNvbnRyb2xsZXJzLlJldmVyc2VBc3NldHN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AHJ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHEAcHNxAH4AdnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBZTAAJaW5oZXJpdGVkcQB+AFlMAAdwYXJlbnRzcQB+AFl4cQB+AHpzcQB+AHEAcHNxAH4AdnVxAH4AVAAAAABzcQB+AHEAcHNxAH4AdnVxAH4AVAAAAABzcQB+AHEAcHNxAH4AdnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AeXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AeXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AlnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Al3NxAH4AinQAA0FueXNxAH4AjnNxAH4AkXVxAH4AlAAAAAJzcQB+AJZ0AAVzY2FsYXEAfgCdc3EAfgBWcQB+AGN1cQB+AGQAAAAAc3EAfgBmAHQAJmNvbS5odGMuc3R1ZGlvLmRlbW8uUmV2ZXJzZUFwcGxpY2F0aW9udXEAfgBpAAAAAHEAfgBtdXEAfgBvAAAAAHNxAH4AcQBwc3EAfgB2cQB+AHtzcQB+AHEAcHNxAH4AdnNxAH4AfnNxAH4AcQBwc3EAfgB2dXEAfgBUAAAAAHNxAH4AcQBwc3EAfgB2dXEAfgBUAAAAAHNxAH4AcQBwc3EAfgB2dXEAfgCIAAAAAnNxAH4AinEAfgCNc3EAfgCOc3EAfgCRdXEAfgCUAAAAA3NxAH4AlnEAfgCZc3EAfgCWcQB+AJtxAH4AnXNxAH4AinEAfgCfc3EAfgCOc3EAfgCRdXEAfgCUAAAAAnNxAH4AlnEAfgCkcQB+AJ1zcQB+AFZxAH4AY3VxAH4AZAAAAABzcQB+AGYAdAAkY29udHJvbGxlcnMuamF2YXNjcmlwdC5SZXZlcnNlQXNzZXRzdXEAfgBpAAAAAHEAfgBtdXEAfgBvAAAAAHNxAH4AcQBwc3EAfgB2cQB+AHtzcQB+AHEAcHNxAH4AdnNxAH4AfnNxAH4AcQBwc3EAfgB2dXEAfgBUAAAAAHNxAH4AcQBwc3EAfgB2dXEAfgBUAAAAAHNxAH4AcQBwc3EAfgB2dXEAfgCIAAAAAnNxAH4AinEAfgCNc3EAfgCOc3EAfgCRdXEAfgCUAAAAA3NxAH4AlnEAfgCZc3EAfgCWcQB+AJtxAH4AnXNxAH4AinEAfgCfc3EAfgCOc3EAfgCRdXEAfgCUAAAAAnNxAH4AlnEAfgCkcQB+AJ1zcQB+AFZxAH4AY3VxAH4AZAAAAABzcQB+AGYAdAAxY29tLmh0Yy5zdHVkaW8uZGVtby5qYXZhc2NyaXB0LlJldmVyc2VBcHBsaWNhdGlvbnVxAH4AaQAAAABxAH4AbXVxAH4AbwAAAABzcQB+AHEAcHNxAH4AdnEAfgB7c3EAfgBxAHBzcQB+AHZzcQB+AH5zcQB+AHEAcHNxAH4AdnVxAH4AVAAAAABzcQB+AHEAcHNxAH4AdnVxAH4AVAAAAABzcQB+AHEAcHNxAH4AdnVxAH4AiAAAAAJzcQB+AIpxAH4AjXNxAH4AjnNxAH4AkXVxAH4AlAAAAANzcQB+AJZxAH4AmXNxAH4AlnEAfgCbcQB+AJ1zcQB+AIpxAH4An3NxAH4AjnNxAH4AkXVxAH4AlAAAAAJzcQB+AJZxAH4ApHEAfgCdc3EAfgBWcQB+AGN1cQB+AGQAAAAAc3EAfgBmAHQAHWNvbnRyb2xsZXJzLnJlZi5SZXZlcnNlQXNzZXRzdXEAfgBpAAAAAHEAfgBtdXEAfgBvAAAAAHNxAH4AcQBwc3EAfgB2cQB+AHtzcQB+AHEAcHNxAH4AdnNxAH4AfnNxAH4AcQBwc3EAfgB2dXEAfgBUAAAAAHNxAH4AcQBwc3EAfgB2dXEAfgBUAAAAAHNxAH4AcQBwc3EAfgB2dXEAfgCIAAAAAnNxAH4AinEAfgCNc3EAfgCOc3EAfgCRdXEAfgCUAAAAA3NxAH4AlnEAfgCZc3EAfgCWcQB+AJtxAH4AnXNxAH4AinEAfgCfc3EAfgCOc3EAfgCRdXEAfgCUAAAAAnNxAH4AlnEAfgCkcQB+AJ1zcQB+AFZxAH4AY3VxAH4AZAAAAABzcQB+AGYAdAAqY29tLmh0Yy5zdHVkaW8uZGVtby5yZWYuUmV2ZXJzZUFwcGxpY2F0aW9udXEAfgBpAAAAAHEAfgBtdXEAfgBvAAAAAHNxAH4AcQBwc3EAfgB2cQB+AHtzcQB+AHEAcHNxAH4AdnNxAH4AfnNxAH4AcQBwc3EAfgB2dXEAfgBUAAAAAHNxAH4AcQBwc3EAfgB2dXEAfgBUAAAAAHNxAH4AcQBwc3EAfgB2dXEAfgCIAAAAAnNxAH4AinEAfgCNc3EAfgCOc3EAfgCRdXEAfgCUAAAAA3NxAH4AlnEAfgCZc3EAfgCWcQB+AJtxAH4AnXNxAH4AinEAfgCfc3EAfgCOc3EAfgCRdXEAfgCUAAAAAnNxAH4AlnEAfgCkcQB+AJ11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAACXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABNjb20uaHRjLnN0dWRpby5kZW1vc3EAfgFCdAAPY29udHJvbGxlcnMucmVmc3EAfgFCdAAXY29tLmh0Yy5zdHVkaW8uZGVtby5yZWZzcQB+AUJ0AB5jb20uaHRjLnN0dWRpby5kZW1vLmphdmFzY3JpcHRzcQB+AUJ0AAdjb20uaHRjc3EAfgFCdAADY29tc3EAfgFCdAALY29udHJvbGxlcnNzcQB+AUJ0ABZjb250cm9sbGVycy5qYXZhc2NyaXB0c3EAfgFCdAAOY29tLmh0Yy5zdHVkaW9zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUshBGF4dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASS9Vc2Vycy9zaW1vbmdfd3UvV29ya3NwYWNlL2xhbWEtZGVtby1zcGFpbi9wbGF5L3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQF6IKFIHKXmks7POXksK+4/+qi2A==
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDvFv6+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEmjfUx0ADFjb21faHRjX3N0dWRpb19kZW1vX0FwcGxpY2F0aW9uX21hcGNvdW50MV9pbnZva2Vyc3EAfgAMe3o4/HQABm5vdGlmeXNxAH4ADDHY6uB0ADRjb21faHRjX3N0dWRpb19kZW1vX0FwcGxpY2F0aW9uX2gyU2VudGltZW50M19pbnZva2Vyc3EAfgAMDfoER3QACmJhZFJlcXVlc3RzcQB+AAwwU27udAAEd2FpdHNxAH4ADOQ+MGB0AA0kYXNJbnN0YW5jZU9mc3EAfgAMiP6e7HQABnJvdXRlc3NxAH4ADK82SzZ0ACljb21faHRjX3N0dWRpb19kZW1vX0FwcGxpY2F0aW9uX2gyMF9yb3V0ZXNxAH4ADIbkLnl0ACNjb250cm9sbGVyc19Bc3NldHNfdmVyc2lvbmVkNl9yb3V0ZXNxAH4ADMHwf6l0AA1jcmVhdGVJbnZva2Vyc3EAfgAMRdu+vXQABmVxdWFsc3NxAH4ADHyOvth0AAZwcmVmaXhzcQB+AAxXDBEDdAAMYXNJbnN0YW5jZU9mc3EAfgAMpp9aUnQADWRvY3VtZW50YXRpb25zcQB+AAyHnfSXdAAyY29tX2h0Y19zdHVkaW9fZGVtb19BcHBsaWNhdGlvbl9oMlNlbnRpbWVudDNfcm91dGVzcQB+AAx/pfiCdAAMc3luY2hyb25pemVkc3EAfgAMRZ6CWHQAMmNvbV9odGNfc3R1ZGlvX2RlbW9fQXBwbGljYXRpb25fd29yZGNvdW50Ml9pbnZva2Vyc3EAfgAMtECx+XQAMGNvbV9odGNfc3R1ZGlvX2RlbW9fQXBwbGljYXRpb25fd29yZGNvdW50Ml9yb3V0ZXNxAH4ADJuazlt0AA0kaXNJbnN0YW5jZU9mc3EAfgAMRGXld3QACmhhbmRsZXJGb3JzcQB+AAy5INABdAAcY29udHJvbGxlcnNfQXNzZXRzX2F0NV9yb3V0ZXNxAH4ADPBZHah0AAdfcHJlZml4c3EAfgAMuv1wY3QACW5vdGlmeUFsbHNxAH4ADHeCVcN0AAxpc0luc3RhbmNlT2ZzcQB+AAyxO4v+dAAyY29tX2h0Y19zdHVkaW9fZGVtb19BcHBsaWNhdGlvbl9zZW50aW1lbnQ0X2ludm9rZXJzcQB+AAwrlq4mdAAGPGluaXQ+c3EAfgAMn73433QAK2NvbV9odGNfc3R1ZGlvX2RlbW9fQXBwbGljYXRpb25faDIwX2ludm9rZXJzcQB+AAzrcjitdAAvY29tX2h0Y19zdHVkaW9fZGVtb19BcHBsaWNhdGlvbl9tYXBjb3VudDFfcm91dGVzcQB+AAySoIJXdAAeY29udHJvbGxlcnNfQXNzZXRzX2F0NV9pbnZva2Vyc3EAfgAMCIcFNHQAAj09c3EAfgAMUjP3yHQABWNsb25lc3EAfgAMZtU0mHQADlRhZ2dpbmdJbnZva2Vyc3EAfgAMBZZKe3QABlJvdXRlc3NxAH4ADJjP52d0AAh0b1N0cmluZ3NxAH4ADPrQDwR0AAIhPXNxAH4ADHJUfqd0AAlmYWtlVmFsdWVzcQB+AAwO24uedAAIZ2V0Q2xhc3NzcQB+AAxKDu3ndAAJc2V0UHJlZml4c3EAfgAMjdukCXQAEWNhY2hlZEhhbmRsZXJUYWdzc3EAfgAMmhz2OnQAMGNvbV9odGNfc3R1ZGlvX2RlbW9fQXBwbGljYXRpb25fc2VudGltZW50NF9yb3V0ZXNxAH4ADMLGs5F0AAJuZXNxAH4ADNuFuU90AARjYWxsc3EAfgAM/z7RKXQAAmVxc3EAfgAMFqetT3QAJWNvbnRyb2xsZXJzX0Fzc2V0c192ZXJzaW9uZWQ2X2ludm9rZXJzcQB+AAwirU3KdAANZGVmYXVsdFByZWZpeHNxAH4ADCCeFzx0AAIjI3NxAH4ADNif8A10AAhmaW5hbGl6ZXNxAH4ADMSNJxV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AT3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AI94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AI4AcHNxAH4Ak3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB3TAAJaW5oZXJpdGVkcQB+AHdMAAdwYXJlbnRzcQB+AHd4cQB+AJdzcQB+AI4AcHNxAH4Ak3VxAH4AcgAAAABzcQB+AI4AcHNxAH4Ak3VxAH4AcgAAAABzcQB+AI4AcHNxAH4Ak3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AlnQABlJvdXRlc3NxAH4Ap3QABlJvdXRlcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AlnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4AtXQABGNvcmVzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AtnNxAH4Ap3QABk9iamVjdHNxAH4ArXNxAH4AsHVxAH4AswAAAANzcQB+ALV0AARqYXZhc3EAfgC1dAAEbGFuZ3EAfgC8c3EAfgCndAADQW55c3EAfgCtc3EAfgCwdXEAfgCzAAAAAnNxAH4AtXQABXNjYWxhcQB+ALx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSyEEYXh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABJL1VzZXJzL3NpbW9uZ193dS9Xb3Jrc3BhY2UvbGFtYS1kZW1vLXNwYWluL3BsYXkvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPOKFrTfW1D1ldXjZyOQZS5s/1cI
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC5QOL7AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAI3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLMEJ/l0AAZub3RpZnlzcQB+AAy9W9yXdAAGZm9ybWF0c3EAfgAM6/nLPnQABHdhaXRzcQB+AAzdL+CvdAANJGFzSW5zdGFuY2VPZnNxAH4ADBGE1t50AAxwcm9kdWN0QXJpdHlzcQB+AAz00mf+dAAGZXF1YWxzc3EAfgAMlSK6/nQADGFzSW5zdGFuY2VPZnNxAH4ADGYQqnx0AAFmc3EAfgAMVAQLk3QADHN5bmNocm9uaXplZHNxAH4ADH2pfg10AAlfZGlzcGxheV9zcQB+AAxYn+bldAANJGlzSW5zdGFuY2VPZnNxAH4ADMwhAAZ0AANyZWZzcQB+AAw889RVdAAIY2FuRXF1YWxzcQB+AAxi0aRedAANcHJvZHVjdFByZWZpeHNxAH4ADImvEXx0AAlub3RpZnlBbGxzcQB+AAzwgSk6dAALcmVhZFJlc29sdmVzcQB+AAwS6R79dAAMaXNJbnN0YW5jZU9mc3EAfgAMjcyaBXQADGltbXV0YWJsZVNlcXNxAH4ADHKzkFN0AAVhcHBseXNxAH4ADIhN6uJ0AAI9PXNxAH4ADCRkkSd0AAVjbG9uZXNxAH4ADJYFwd10AARjb3B5c3EAfgAMI8NmJXQACHRvU3RyaW5nc3EAfgAMxwCj+3QACE1hcENvdW50c3EAfgAM+VGjlHQAAiE9c3EAfgAM2NFBCnQACGdldENsYXNzc3EAfgAMZ80FSHQADmNvcHkkZGVmYXVsdCQxc3EAfgAMQX732XQABnJlbmRlcnNxAH4ADI+iz7N0AAJuZXNxAH4ADJamj1h0AAJlcXNxAH4ADI56UYJ0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxZrgXldAACIyNzcQB+AAy4tSThdAAIZmluYWxpemVzcQB+AAyB6gxgdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxsmWVddAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBdeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAhY29tLmh0Yy5zdHVkaW8uZGVtby5odG1sLk1hcENvdW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Adnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AdQBwc3EAfgB6c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF1MAAlpbmhlcml0ZWRxAH4AXUwAB3BhcmVudHNxAH4AXXhxAH4AfnNxAH4AdQBwc3EAfgB6dXEAfgBYAAAAAHNxAH4AdQBwc3EAfgB6dXEAfgBYAAAAAHNxAH4AdQBwc3EAfgB6dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAhzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBldAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AfXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHEAfgCPeHEAfgB9dAAJVGVtcGxhdGUyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB9c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgCddAAFdHdpcmxzcQB+AJ10AANhcGlzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnnVxAH4AjAAAAANzcQB+AJJ0AAZTdHJpbmdzcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCddAAEamF2YXNxAH4AnXQABGxhbmdxAH4ApnNxAH4AknQAA0ludHNxAH4AlXNxAH4AmHVxAH4AmwAAAAJzcQB+AJ10AAVzY2FsYXEAfgCmc3EAfgCSdAAESHRtbHEAfgCXc3EAfgCOc3EAfgCSdAARQmFzZVNjYWxhVGVtcGxhdGVxAH4Al3VxAH4AjAAAAAJxAH4AuHNxAH4AjnNxAH4AknQABkZvcm1hdHEAfgCXdXEAfgCMAAAAAXEAfgC4c3EAfgCSdAAMU2VyaWFsaXphYmxlcQB+ALNzcQB+AJJxAH4Aw3NxAH4AlXNxAH4AmHVxAH4AmwAAAANzcQB+AJ1xAH4ArnNxAH4AnXQAAmlvcQB+AKZzcQB+AJJ0AAdQcm9kdWN0cQB+ALNzcQB+AJJ0AAZFcXVhbHNxAH4As3NxAH4AknQABk9iamVjdHEAfgCqc3EAfgCSdAADQW55cQB+ALN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABNjb20uaHRjLnN0dWRpby5kZW1vc3EAfgDVdAAYY29tLmh0Yy5zdHVkaW8uZGVtby5odG1sc3EAfgDVdAAHY29tLmh0Y3NxAH4A1XQAA2NvbXNxAH4A1XQADmNvbS5odGMuc3R1ZGlvc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLIQRheHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEkvVXNlcnMvc2ltb25nX3d1L1dvcmtzcGFjZS9sYW1hLWRlbW8tc3BhaW4vcGxheS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUZsA8DXYdnWOAjaTLarx3hQqBJtA=
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHASFhpLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAI3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cB3MTR90AAZub3RpZnlzcQB+AAwVEFs4dAAGZm9ybWF0c3EAfgAMdrl2WHQABHdhaXRzcQB+AAygXVumdAANJGFzSW5zdGFuY2VPZnNxAH4ADLv8PO90AAxwcm9kdWN0QXJpdHlzcQB+AAysjL8TdAAGZXF1YWxzc3EAfgAMriWAV3QADGFzSW5zdGFuY2VPZnNxAH4ADGOtZeN0AAFmc3EAfgAMvNnddXQADHN5bmNocm9uaXplZHNxAH4ADG4icP50AAlfZGlzcGxheV9zcQB+AAw7G/MIdAANJGlzSW5zdGFuY2VPZnNxAH4ADAX9Ch50AANyZWZzcQB+AAxjpHdOdAAIY2FuRXF1YWxzcQB+AAzGNxjDdAANcHJvZHVjdFByZWZpeHNxAH4ADM7aHMR0AAlTZW50aW1lbnRzcQB+AAwW5jt4dAAJbm90aWZ5QWxsc3EAfgAMYDqFbXQAC3JlYWRSZXNvbHZlc3EAfgAMurFJa3QADGlzSW5zdGFuY2VPZnNxAH4ADDQ4bXF0AAxpbW11dGFibGVTZXFzcQB+AAzQ8+IQdAAFYXBwbHlzcQB+AAyx5hzWdAACPT1zcQB+AAw5r7vTdAAFY2xvbmVzcQB+AAyXWyhMdAAEY29weXNxAH4ADI81Hm50AAh0b1N0cmluZ3NxAH4ADOmP/dt0AAIhPXNxAH4ADKOQXyJ0AAhnZXRDbGFzc3NxAH4ADDcrgrF0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADJU124d0AAZyZW5kZXJzcQB+AAz5XVKedAACbmVzcQB+AAyNLQLIdAACZXFzcQB+AAy+IH+5dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMINnK8XQAAiMjc3EAfgAMeG8uH3QACGZpbmFsaXplc3EAfgAMLOwovnQADnByb2R1Y3RFbGVtZW50c3EAfgAM4IeEdHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AXXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAImNvbS5odGMuc3R1ZGlvLmRlbW8uaHRtbC5TZW50aW1lbnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB2eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB1AHBzcQB+AHpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AXUwACWluaGVyaXRlZHEAfgBdTAAHcGFyZW50c3EAfgBdeHEAfgB+c3EAfgB1AHBzcQB+AHp1cQB+AFgAAAAAc3EAfgB1AHBzcQB+AHp1cQB+AFgAAAAAc3EAfgB1AHBzcQB+AHp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAACHNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGV0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB9c3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4cQB+AI94cQB+AH10AAlUZW1wbGF0ZTFzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AH1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABHBsYXlzcQB+AJ10AAV0d2lybHNxAH4AnXQAA2FwaXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCedXEAfgCMAAAAAnNxAH4AknQABlN0cmluZ3NxAH4AlXNxAH4AmHVxAH4AmwAAAANzcQB+AJ10AARqYXZhc3EAfgCddAAEbGFuZ3EAfgCmc3EAfgCSdAAESHRtbHEAfgCXc3EAfgCOc3EAfgCSdAARQmFzZVNjYWxhVGVtcGxhdGVxAH4Al3VxAH4AjAAAAAJxAH4AsXNxAH4AjnNxAH4AknQABkZvcm1hdHEAfgCXdXEAfgCMAAAAAXEAfgCxc3EAfgCSdAAMU2VyaWFsaXphYmxlc3EAfgCVc3EAfgCYdXEAfgCbAAAAAnNxAH4AnXQABXNjYWxhcQB+AKZzcQB+AJJxAH4AvHNxAH4AlXNxAH4AmHVxAH4AmwAAAANzcQB+AJ1xAH4ArnNxAH4AnXQAAmlvcQB+AKZzcQB+AJJ0AAdQcm9kdWN0cQB+AL1zcQB+AJJ0AAZFcXVhbHNxAH4AvXNxAH4AknQABk9iamVjdHEAfgCqc3EAfgCSdAADQW55cQB+AL11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABNjb20uaHRjLnN0dWRpby5kZW1vc3EAfgDTdAAYY29tLmh0Yy5zdHVkaW8uZGVtby5odG1sc3EAfgDTdAAHY29tLmh0Y3NxAH4A03QAA2NvbXNxAH4A03QADmNvbS5odGMuc3R1ZGlvc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLIQRheHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEkvVXNlcnMvc2ltb25nX3d1L1dvcmtzcGFjZS9sYW1hLWRlbW8tc3BhaW4vcGxheS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUqbNrgGRyhkveRCwYT0tQvp9ojxA=
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBwVtQEAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAI3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLtZ0C10AAZub3RpZnlzcQB+AAwgjBBpdAAGZm9ybWF0c3EAfgAMF/O5bHQABHdhaXRzcQB+AAyijD8tdAANJGFzSW5zdGFuY2VPZnNxAH4ADOqbre90AAxwcm9kdWN0QXJpdHlzcQB+AAyZIThRdAAGZXF1YWxzc3EAfgAMLKijBHQADGFzSW5zdGFuY2VPZnNxAH4ADDR/2st0AAFmc3EAfgAMp9OuRHQADHN5bmNocm9uaXplZHNxAH4ADG/WtDl0AAlfZGlzcGxheV9zcQB+AAy7eGPrdAANJGlzSW5zdGFuY2VPZnNxAH4ADFRdpHB0AANyZWZzcQB+AAyHQVCFdAAIY2FuRXF1YWxzcQB+AAzS+pLHdAANcHJvZHVjdFByZWZpeHNxAH4ADKN6Aol0AAlXb3JkQ291bnRzcQB+AAypDLNwdAAJbm90aWZ5QWxsc3EAfgAMKokiOnQAC3JlYWRSZXNvbHZlc3EAfgAMg7YZ4XQADGlzSW5zdGFuY2VPZnNxAH4ADFIfKTJ0AAxpbW11dGFibGVTZXFzcQB+AAywOw2odAAFYXBwbHlzcQB+AAza5wcTdAACPT1zcQB+AAykwmx0dAAFY2xvbmVzcQB+AAyAhDTJdAAEY29weXNxAH4ADKJa8Bx0AAh0b1N0cmluZ3NxAH4ADK7wEVt0AAIhPXNxAH4ADLOKc6l0AAhnZXRDbGFzc3NxAH4ADGpDzDd0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADCIIxIF0AAZyZW5kZXJzcQB+AAx8bXP4dAACbmVzcQB+AAzHhelAdAACZXFzcQB+AAyl4SfwdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMOvrsqHQAAiMjc3EAfgAM/r9AE3QACGZpbmFsaXplc3EAfgAMiIUo8XQADnByb2R1Y3RFbGVtZW50c3EAfgAMh9bLk3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AXXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAImNvbS5odGMuc3R1ZGlvLmRlbW8uaHRtbC5Xb3JkQ291bnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB2eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB1AHBzcQB+AHpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AXUwACWluaGVyaXRlZHEAfgBdTAAHcGFyZW50c3EAfgBdeHEAfgB+c3EAfgB1AHBzcQB+AHp1cQB+AFgAAAAAc3EAfgB1AHBzcQB+AHp1cQB+AFgAAAAAc3EAfgB1AHBzcQB+AHp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAACHNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGV0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB9c3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4cQB+AI94cQB+AH10AAlUZW1wbGF0ZTRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AH1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABHBsYXlzcQB+AJ10AAV0d2lybHNxAH4AnXQAA2FwaXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCedXEAfgCMAAAABXNxAH4AknQABlN0cmluZ3NxAH4AlXNxAH4AmHVxAH4AmwAAAANzcQB+AJ10AARqYXZhc3EAfgCddAAEbGFuZ3EAfgCmc3EAfgCSdAADSW50c3EAfgCVc3EAfgCYdXEAfgCbAAAAAnNxAH4AnXQABXNjYWxhcQB+AKZxAH4AsXEAfgCxc3EAfgCSdAAESHRtbHEAfgCXc3EAfgCOc3EAfgCSdAARQmFzZVNjYWxhVGVtcGxhdGVxAH4Al3VxAH4AjAAAAAJxAH4AuHNxAH4AjnNxAH4AknQABkZvcm1hdHEAfgCXdXEAfgCMAAAAAXEAfgC4c3EAfgCSdAAMU2VyaWFsaXphYmxlcQB+ALNzcQB+AJJxAH4Aw3NxAH4AlXNxAH4AmHVxAH4AmwAAAANzcQB+AJ1xAH4ArnNxAH4AnXQAAmlvcQB+AKZzcQB+AJJ0AAdQcm9kdWN0cQB+ALNzcQB+AJJ0AAZFcXVhbHNxAH4As3NxAH4AknQABk9iamVjdHEAfgCqc3EAfgCSdAADQW55cQB+ALN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABNjb20uaHRjLnN0dWRpby5kZW1vc3EAfgDVdAAYY29tLmh0Yy5zdHVkaW8uZGVtby5odG1sc3EAfgDVdAAHY29tLmh0Y3NxAH4A1XQAA2NvbXNxAH4A1XQADmNvbS5odGMuc3R1ZGlvc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLIQRheHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEkvVXNlcnMvc2ltb25nX3d1L1dvcmtzcGFjZS9sYW1hLWRlbW8tc3BhaW4vcGxheS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUv+8OmOfF84BwcMa5l3JfvJD1o/U=
+external apis:
+0 items
+source infos:
+8 items
+/Users/simong_wu/Workspace/lama-demo-spain/play/app/com/htc/studio/demo/Application.scala -> 
+AAAAAAAAAAA=
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/com/htc/studio/demo/routes.java -> 
+AAAAAAAAAAA=
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/controllers/routes.java -> 
+AAAAAAAAAAA=
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_reverseRouting.scala -> 
+AAAAAAAAAAA=
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/src_managed/main/routes_routing.scala -> 
+AAAAAAAAAAA=
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/MapCount.template.scala -> 
+AAAAAAAAAAA=
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/Sentiment.template.scala -> 
+AAAAAAAAAAA=
+/Users/simong_wu/Workspace/lama-demo-spain/play/target/scala-2.10/twirl/main/com/htc/studio/demo/html/WordCount.template.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSyEEYXh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9Vc2Vycy9zaW1vbmdfd3UvV29ya3NwYWNlL2xhbWEtZGVtby1zcGFpbi9wbGF5L3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv

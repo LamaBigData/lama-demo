@@ -1,0 +1,59 @@
+@(table: String, reload: Int)
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script type="text/javascript" src='@routes.Assets.at("lib/jquery/jquery.min.js")'></script>
+<script type="text/javascript" src='@routes.Assets.at("lib/d3js/d3.min.js")'></script>
+<!--<script src="https://rawgit.com/Caged/d3-tip/master/index.js"></script>-->
+<script type='text/javascript' src='@routes.Assets.at("javascripts/d3-tip.js")'></script>
+<script type='text/javascript' src='@routes.Assets.at("javascripts/topojson.v1.min.js")'></script>
+<script type="text/javascript" src='@routes.Assets.at("lib/coffee-script/coffee-script.min.js")'></script>
+<script type='text/javascript' src='@routes.Assets.at("coffeescripts/count-bar.js")'></script>
+<script type='text/javascript' src='@routes.Assets.at("coffeescripts/count-map.js")'></script>
+<!--<link rel="stylesheet" href="https://rawgit.com/Caged/d3-tip/master/examples/example-styles.css">-->
+<link rel="stylesheet" href='@routes.Assets.at("css/d3-tip.css")'>
+<style>
+.count { fill: black; }
+.country:hover { stroke: #fff; stroke-width: 1.5px; }
+.equator { stroke: #ccc; stroke-width: 1px; }
+.graticule { fill: none; stroke: #bbb; stroke-width: .5px; stroke-opacity: .5; }
+.increased { fill: lime; }
+</style>
+<title>Map Count</title>
+<div style="float:left"><svg class="map"></svg></div>
+<div id="bar-div" style="float:right;overflow-y:scroll"><svg class="bars"></svg></div>
+<script type='text/coffeescript'>
+width = window.innerWidth - 20
+height = window.innerHeight - 20
+bar = CountBar("bars", width - height - 30, height)
+d3.select("#bar-div").style("height", "#{height}px")
+worldMap = WordCloud("map", height, height)
+country = '@routes.Assets.at("json/world-topo-min.json")'
+data = '@com.htc.studio.demo.routes.Application.h2(table, "country", "total")'
+map = d3.map()
+color = worldMap.color
+callback_data = (error, count) ->
+  if count?
+    worldMap.data(count)
+    count.forEach((d) ->
+      item = map.get(d.country)
+      item.count = d.total
+      item.color = color(d.total)
+    )
+    value = map.entries()
+      .sort((a, b) -> b.value.count - a.value.count)
+    countFn = (p, c) -> p + if c.value.count > 0 then 1 else 0
+    size = value.reduce(countFn , 0)
+    bar(value, size)
+  setTimeout(d3.json, @reload * 1000, data, callback_data) if @reload >= 0
+callback_country = (error, world) ->
+  countries = topojson.feature(world, world.objects.countries).features
+  worldMap(countries)
+  countries.forEach((d) ->
+    map.set(d.properties.name,
+      count: 0
+      oldcount: 0
+    )
+  )
+  d3.json(data, callback_data)
+d3.json(country, callback_country)
+</script>

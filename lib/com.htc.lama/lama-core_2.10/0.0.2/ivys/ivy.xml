@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+	<info organisation="com.htc.lama" module="lama-core_2.10" revision="0.0.2" status="release" publication="20150121113132">
+		<description>
+		lama-core
+		</description>
+	</info>
+	<configurations>
+		<conf name="compile" visibility="public" description=""/>
+		<conf name="runtime" visibility="public" description="" extends="compile"/>
+		<conf name="test" visibility="public" description="" extends="runtime"/>
+		<conf name="provided" visibility="public" description=""/>
+		<conf name="optional" visibility="public" description=""/>
+		
+		
+		
+		
+		<conf name="sources" visibility="public" description=""/>
+		<conf name="docs" visibility="public" description=""/>
+		<conf name="pom" visibility="public" description=""/>
+		
+	</configurations>
+	<publications>
+		<artifact name="lama-core_2.10" type="pom" ext="pom" conf="pom"/>
+		<artifact name="lama-core_2.10" type="jar" ext="jar" conf="compile"/>
+		<artifact name="lama-core_2.10" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+		<artifact name="lama-core_2.10" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+	</publications>
+	<dependencies>
+		
+		<dependency org="org.scala-lang" name="scala-library" rev="2.10.4" conf="compile->default(compile)"/>
+		<dependency org="org.scala-tools.testing" name="specs_2.10" rev="1.6.9" conf="test->default(compile)"/>
+		<dependency org="com.novocode" name="junit-interface" rev="0.10" conf="test->default(compile)"/>
+		<dependency org="com.twitter" name="bijection-protobuf_2.10" rev="0.6.3" conf="compile->default(compile)">
+			<exclude org="com.google.protobuf" module="protobuf-java" name="*" type="*" ext="*" conf="" matcher="exact"/>
+		</dependency>
+		<dependency org="com.google.protobuf" name="protobuf-java" rev="2.5.0" conf="compile->default(compile)"/>
+		<dependency org="org.json4s" name="json4s-jackson_2.10" rev="3.2.11" conf="compile->default(compile)"/>
+		<dependency org="com.twitter" name="scalding-args_2.10" rev="0.12.0" conf="compile->default(compile)"/>
+		<dependency org="com.twitter" name="scalding-date_2.10" rev="0.12.0" conf="compile->default(compile)"/>
+		<dependency org="net.fwbrasil" name="smirror_2.10" rev="0.8" conf="compile->default(compile)"/>
+		<dependency org="com.twitter" name="summingbird-batch_2.10" rev="0.5.2rc6" conf="compile->default(compile)"/>
+		<dependency org="com.twitter" name="summingbird-chill_2.10" rev="0.5.2rc6" conf="compile->default(compile)"/>
+	</dependencies>
+</ivy-module>

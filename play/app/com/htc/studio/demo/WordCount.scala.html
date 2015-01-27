@@ -1,0 +1,61 @@
+@(table: String, minimum: Int, length: Int, reload: Int)
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script type="text/javascript" src='@routes.Assets.at("lib/jquery/jquery.min.js")'></script>
+<script type="text/javascript" src='@routes.Assets.at("lib/d3js/d3.min.js")'></script>
+<script type="text/javascript" src='@routes.Assets.at("lib/d3-cloud/d3.layout.cloud.js")'></script>
+<!--<script src="https://rawgit.com/Caged/d3-tip/master/index.js"></script>-->
+<script type='text/javascript' src='@routes.Assets.at("javascripts/d3-tip.js")'></script>
+<script type="text/javascript" src='@routes.Assets.at("lib/coffee-script/coffee-script.min.js")'></script>
+<script type='text/javascript' src='@routes.Assets.at("coffeescripts/count-bar.js")'></script>
+<script type='text/javascript' src='@routes.Assets.at("coffeescripts/word-cloud.js")'></script>
+<!--<link rel="stylesheet" href="https://rawgit.com/Caged/d3-tip/master/examples/example-styles.css">-->
+<link rel="stylesheet" href='@routes.Assets.at("css/d3-tip.css")'>
+<style type="text/css">
+.cloud text:hover { opacity: .5; }
+.count { fill: black; }
+.increased { fill: lime; }
+.remain { fill: lightskyblue; }
+html, body { margin:0; padding:0; height:100%; }
+</style>
+<title>Word Count Graph
+@if(minimum == 1) {
+  of All Words
+} else {
+  (showing only words occurred more than @minimum times)
+}
+</title>
+<div id="error"></div>
+<div style="float:left"><svg class="cloud"></svg></div>
+<div style="float:left"><svg class="bars"></svg></div>
+<script type='text/coffeescript'>
+width = window.innerWidth - 20
+height = window.innerHeight - 20
+bar = CountBar("bars", width * 0.2, height)
+cloud = WordCloud("cloud", width * 0.8, height)
+data = '@com.htc.studio.demo.routes.Application.h2(table, "word", "count")'
+allwords = []
+reload = () ->
+  setTimeout(d3.json, @reload * 1000, data, callback) if @reload >= 0
+callback = (error, json) ->
+  if json?
+    allwords = json
+    filtered = json.filter((d) -> d.count >= @minimum and d.word.length <= @length)
+    cloud(filtered)
+    d3.select("#error").html("")
+  else
+    d3.select("#error").html(error.response)
+    console.log(error)
+    reload()
+map = d3.map()
+map.set(String.fromCharCode('A'.charCodeAt(0) + i - 1),
+  count: 0
+  oldcount: 0
+) for i in [1..26]
+cloud.OnFinished(() ->
+  allwords.forEach((w) -> map.get(w.word.charAt(0).toUpperCase()).count += w.count)
+  bar(map.entries())
+  reload()
+)
+d3.json(data, callback)
+</script>
