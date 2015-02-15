@@ -144,8 +144,8 @@ In our codes, we have provided a default file path for h2 with `/tmp/demo/h2`. Y
 
 # Authors
 ## Owners
- * Gang Wu (Simon, gangwoo at gmail dot com)
- * Zhongyang Zheng
+ * [Gang Wu](https://github.com/simonandluna)
+ * [Zhongyang Zheng](https://github.com/zyzheng)
  * Roy Jiang
 
 ## Contributor
