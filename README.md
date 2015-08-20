@@ -64,6 +64,8 @@ Open the link http://localhost:9000/demo/wordcount/wordcount?reload=2 in your br
 
 Since it may took several seconds for the job to start, you may see a table not found error in this page. Don't panic, just leave it alone, the page will reload when the data is ready. It will continue to refresh every other second, so you can see your real-time job running.
 
+![Screenshot of streaming word counting](/data/figures/word_count.png?raw=true "WordCountStormJob")
+
 3. Run the batch job
 
 You can also run the batch version of word count job.
@@ -89,6 +91,8 @@ The job will run until you press Ctrl+C.
 2. Navigate to the graph
 
 Open the link http://localhost:9000/demo/mapcount/mapcount?reload=1 in your browser.
+
+![Screenshot of streaming map counting](/data/figures/map_count.png?raw=true "MapCountStormJob")
 
 Since it may took several seconds for the job to start, you may see any results on the graph. Don't panic, just leave it alone, the page will reload when the data is ready. It will continue to refresh every second, so you can see your real-time job running.
 
@@ -126,6 +130,8 @@ The job will run until you press Ctrl+C.
 Open the link http://localhost:9000/demo/sentiment/sentiment in your browser.
 
 Since it may took several seconds for the job to start, you may need to manually refresh the page until the data is loaded. Once the data is loaded, the page will automatically refresh.
+
+![Screenshot of real-time tweet sentimental analysis](/data/figures/tweet_sentiment.png?raw=true "Tweet Sentimental Analysis")
 
 # For Windows Users<a name="windows"></a>
 
